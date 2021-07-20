@@ -1,2 +1,0 @@
-def pokemon():
-    return None
